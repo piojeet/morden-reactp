@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/morden-reactp/static/css/main.9c961a67.css",
-    "main.js": "/morden-reactp/static/js/main.3c40d37e.js",
+    "main.js": "/morden-reactp/static/js/main.74f1771d.js",
     "static/media/ai.png": "/morden-reactp/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/morden-reactp/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/morden-reactp/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/morden-reactp/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/morden-reactp/index.html",
     "main.9c961a67.css.map": "/morden-reactp/static/css/main.9c961a67.css.map",
-    "main.3c40d37e.js.map": "/morden-reactp/static/js/main.3c40d37e.js.map"
+    "main.74f1771d.js.map": "/morden-reactp/static/js/main.74f1771d.js.map"
   },
   "entrypoints": [
     "static/css/main.9c961a67.css",
-    "static/js/main.3c40d37e.js"
+    "static/js/main.74f1771d.js"
   ]
 }
