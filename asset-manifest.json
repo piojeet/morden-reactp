@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morden-reactp/static/css/main.9c961a67.css",
+    "main.js": "/morden-reactp/static/js/main.3c40d37e.js",
+    "static/media/ai.png": "/morden-reactp/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/morden-reactp/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/morden-reactp/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/morden-reactp/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/morden-reactp/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/morden-reactp/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/morden-reactp/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/morden-reactp/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/morden-reactp/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/morden-reactp/index.html",
+    "main.9c961a67.css.map": "/morden-reactp/static/css/main.9c961a67.css.map",
+    "main.3c40d37e.js.map": "/morden-reactp/static/js/main.3c40d37e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c961a67.css",
+    "static/js/main.3c40d37e.js"
+  ]
+}
